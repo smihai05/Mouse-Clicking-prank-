@@ -57,3 +57,6 @@ The executable will be created in the `dist` folder and will contain `salahor.wa
 - The application listens for mouse clicks globally while it is running.
 - Windows may ask for permission for the Python or executable process.
 - Only WAV files supported by Windows `winsound` can be played.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
